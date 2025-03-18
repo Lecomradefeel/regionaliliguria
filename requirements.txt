@@ -1,6 +1,7 @@
 streamlit
-pandas
 folium
 streamlit-folium
-openpyxl
-
+pandas
+geopandas
+shapely
+branca
